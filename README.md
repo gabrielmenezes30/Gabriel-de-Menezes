@@ -4,6 +4,7 @@
 ### Estudante, Desenvolvedor, e amante de tecnologia!!!💛
 
 ---
+✔ Cursando Técnico em Informática no IFSertãoPE.
 
 🌐  Estudando Javascript e PHP.
 
@@ -16,4 +17,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmenezes30&layout=compact&langs_count=16&theme=buefy "/>
 </div>
 
+ 
+  
 

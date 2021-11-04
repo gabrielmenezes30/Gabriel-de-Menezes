@@ -7,7 +7,7 @@
 
 🌐  Estudando Javascript e PHP.
 
-🔰 Atuo na área de Desenvolvimento Web
+🔰 Atuo na área de Desenvolvimento Web.
 
 
 <div>

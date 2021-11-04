@@ -7,8 +7,7 @@
 
 🌐  Estudando Javascript e PHP.
 
-🔰  Estagiando em uma Agência de publicidade e marketing
-   na área de Desenvolvimento Web
+🔰  Desenvolvimento Web
 
 
 <div>

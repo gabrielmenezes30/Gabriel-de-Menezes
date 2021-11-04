@@ -1,7 +1,7 @@
 
 ## Oii, sou Gabriel de Menezes✌
 
-### Estudante, Desenvolvedor, e amante de tecnologia!!!
+### Estudante, Desenvolvedor, e amante de tecnologia!!!💛
 
 ---
 

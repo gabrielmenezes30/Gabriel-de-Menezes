@@ -4,7 +4,8 @@
 ### Estudante, Desenvolvedor
 
 ---
-✔ Cursando Técnico em Informática no IFSertãoPE.
+✔ Técnico em Informática. 
+✔ Cursando Licenciatura em Computação.
 
 🌐  Estudando Javascript e PHP.
 

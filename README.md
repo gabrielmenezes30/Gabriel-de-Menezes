@@ -7,7 +7,7 @@
 ✔ Técnico em Informática. 
 ✔ Cursando Licenciatura em Computação.
 
-🌐  Estudando Javascript e PHP.
+🌐  Estudando Javascript.
 
 🔰 Iniciando na área de Desenvolvimento Web.
 

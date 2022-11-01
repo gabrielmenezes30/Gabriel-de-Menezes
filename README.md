@@ -6,6 +6,7 @@
 ---
 ✔ Técnico em Informática. 
 ✔ Cursando Licenciatura em Computação.
+✔ Cursando Ciência de Dados.
 
 🌐  Estudando Javascript.
 
